@@ -1,5 +1,5 @@
                    👋 Hi
                ^_^ I am Soumyo
-A curious and continuous laerner Computer Science Student :)
+A curious and continuous learner Computer Science Student :)
 
 
