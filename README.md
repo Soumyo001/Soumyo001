@@ -80,8 +80,5 @@
   </a>
 </div>
 
-###
-
 ![snake gif](https://github.com/soumyo001/soumyo001/blob/output/github-contribution-grid-snake.gif)
 
-###
