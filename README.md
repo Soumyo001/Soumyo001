@@ -9,17 +9,13 @@
 
 <h3 align="left">My Handles:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammad-sadman-israk-64b49a216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-sadman-israk-64b49a216/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22374357/soumyo-sadman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22374357/soumyo-sadman" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100008047544954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008047544954" height="30" width="40" /></a>
-<a href="https://instagram.com/mohammad_sadman_002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mohammad_sadman_002/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/defalt001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/defalt001" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/www_soumyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/www_soumyo" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/www.soumyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/www.soumyo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/user1906mc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/user1906mc/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@www.soumyo" target="blank"><img align="center" src="https://www.svgrepo.com/show/306170/hackerearth.svg" alt="https://www.hackerearth.com/@www.soumyo" height="30" width="40" /></a>
 <a href="https://profiles.topcoder.com/Soumyo001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://profiles.topcoder.com/soumyo001" height="30" width="40" /></a>
-<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
