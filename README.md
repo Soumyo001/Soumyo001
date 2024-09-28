@@ -1,28 +1,57 @@
-<h1 align="center">Hi 👋, I'm Mohammad Sadman Soumyo</h1>
-<h3 align="center">A curious and continuous learner Computer Science Student :)</h3>
+# 👋 Hi, I'm Mohammad Sadman Israk
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyo001&label=Profile%20views&color=0e75b6&style=flat" alt="soumyo001" /> </p>
+Welcome to my GitHub profile! I am a passionate ***Software Developer*** currently pursuing a Bachelor of Science in Computer Science and Engineering at Ahsanullah University of Science and Technology. I have experience in building web applications and mobile apps using various technologies.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyo001" alt="soumyo001" /></a> </p>
+---
 
-- 📫 How to reach me **www.soumyo@gmail.com**
+## 💻 Technologies & Skills
 
-<h3 align="left">My Handles:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/22374357/soumyo-sadman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22374357/soumyo-sadman" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/defalt001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/defalt001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/www_soumyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/www_soumyo" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/www.soumyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/www.soumyo" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/user1906mc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/user1906mc/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@www.soumyo" target="blank"><img align="center" src="https://www.svgrepo.com/show/306170/hackerearth.svg" alt="https://www.hackerearth.com/@www.soumyo" height="30" width="40" /></a>
-<a href="https://profiles.topcoder.com/Soumyo001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://profiles.topcoder.com/soumyo001" height="30" width="40" /></a>
-</p>
+- **Languages:** C++, C#, Java, Dart, Python, JavaScript
+- **Frameworks & Libraries:** Flutter, React Native, ASP.NET, ASP.NET Web API, React.js
+- **Tools & Platforms:** Git, GitHub, Firebase, Visual Studio, VS Code, Android Studio
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyo001&show_icons=true&locale=en&layout=compact" alt="soumyo001" /></p>
+## 📬 Let's Connect!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyo001&show_icons=true&locale=en" alt="soumyo001" /></p>
+I'm always open to discussing new projects, collaborations, or ideas. Feel free to reach out!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyo001&" alt="soumyo001" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@Mohammad_Sadman_Israk-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-sadman-israk-64b49a216/) [![Facebook](https://img.shields.io/badge/Facebook-@Sadman_Soumyo-black?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008047544954) [![Instagram](https://img.shields.io/badge/Instagram-@Sadman_Soumyo-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohammad_sadman_002/) 
+
+---
+
+## 📚 My Handles
+
+[![LinkedIn](https://img.shields.io/badge/CodeChef-@defalt001-black?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/defalt001) [![Codeforces](https://img.shields.io/badge/Codeforces-@www.soumyo-black?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/www.soumyo) [![HackerEarth](https://img.shields.io/badge/HackerEarth-@Soumyo_Sadman-black?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@www.soumyo) [![LeetCode](https://img.shields.io/badge/LeetCode-@defalt-black?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/user1906MC/) 
+
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soumyo001&show_icons=true&theme=radical)
+
+---
+
+## ✉️ Get in Touch
+
+Feel free to reach out to me via [email](mailto:www.soumyo@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-sadman-israk-64b49a216/).
+
+---
+
+## 🌱 I’m currently learning:
+- Machine Learning
+- React Native
+- Cyber Security
+
+---
+
+## 🎯 My Philosophy
+
+> "Strive for progress, not perfection." 
+
+I believe in continuous learning and growth, both personally and professionally. I'm excited about exploring new technologies and contributing to meaningful projects that can make a difference.
+
+---
+
+Thank you for visiting my profile! Let’s build something amazing together! 🚀
