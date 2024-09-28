@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Mohammad Sadman Israk
 
-Welcome to my GitHub profile! I am a passionate ***Software Developer*** currently pursuing a Bachelor of Science in Computer Science and Engineering at Ahsanullah University of Science and Technology. I have experience in building web applications and mobile apps using various technologies.
+I am a passionate ***Software Developer*** currently pursuing a Bachelor of Science in Computer Science and Engineering at Ahsanullah University of Science and Technology. I have experience in building web applications and mobile apps using various technologies.
 
 ---
 
 ## 💻 Technologies & Skills
 
-- **Languages:** C++, C#, Java, Dart, Python, JavaScript
-- **Frameworks & Libraries:** Flutter, React Native, ASP.NET, ASP.NET Web API, React.js
+- **Languages:** C++, C#, Java, Dart, Python, JavaScript, php
+- **Frameworks & Libraries:** Flutter, React, ASP.NET Web API, laravel
 - **Tools & Platforms:** Git, GitHub, Firebase, Visual Studio, VS Code, Android Studio
 
 ---
