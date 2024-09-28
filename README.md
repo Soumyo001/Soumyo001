@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **www.soumyo@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Handles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammad-sadman-israk-64b49a216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-sadman-israk-64b49a216/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22374357/soumyo-sadman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22374357/soumyo-sadman" height="30" width="40" /></a>
