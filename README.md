@@ -19,7 +19,7 @@
 <a href="https://www.leetcode.com/u/user1906mc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/user1906mc/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@www.soumyo" target="blank"><img align="center" src="https://www.svgrepo.com/show/306170/hackerearth.svg" alt="https://www.hackerearth.com/@www.soumyo" height="30" width="40" /></a>
 <a href="https://profiles.topcoder.com/Soumyo001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://profiles.topcoder.com/soumyo001" height="30" width="40" /></a>
-<a href="https://discord.gg/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
