@@ -82,6 +82,6 @@
 
 ###
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/soumyo001/soumyo001/blob/output/github-contribution-grid-snake.gif)
 
 ###
