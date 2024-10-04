@@ -40,18 +40,9 @@ Feel free to reach out to me via [email](mailto:www.soumyo@gmail.com) or connect
 ---
 
 ## 🌱 I’m currently learning:
-- Machine Learning
+- ML
 - React Native
 - Cyber Security
 
----
 
-## 🎯 My Philosophy
 
-> "Strive for progress, not perfection." 
-
-I believe in continuous learning and growth, both personally and professionally. I'm excited about exploring new technologies and contributing to meaningful projects that can make a difference.
-
----
-
-Thank you for visiting my profile! Let’s build something amazing together! 🚀
