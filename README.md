@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad Sadman Israk
 
-I am a passionate ***Software Developer*** currently pursuing a Bachelor of Science in Computer Science and Engineering at Ahsanullah University of Science and Technology. I have experience in building web applications and mobile apps using various technologies.
+I am a student who has a passion for ***Problem Solving*** and ***Computer Science*** currently pursuing a Bachelor of Science in Computer Science and Engineering at Ahsanullah University of Science and Technology. I have experience in building web applications and mobile apps using various technologies.
 
 ---
 
