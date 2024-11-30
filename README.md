@@ -29,7 +29,7 @@ I'm always open to discussing new projects, collaborations, or ideas. Feel free 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soumyo001&show_icons=true&theme=radical)
+[![Soumyo001's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumyo001)](https://github.com/Soumyo001/github-readme-stats)
 
 ---
 
