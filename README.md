@@ -29,8 +29,7 @@ I'm always open to discussing new projects, collaborations, or ideas. Feel free 
 
 ## 📈 GitHub Stats
 
-[![Soumyo001's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumyo001&show_icons=true&theme=radical&hide_border=true&icon_color=ff79c6&title_color=ffb86c&text_color=bd93f9&bg_color=282a36)](https://github.com/Soumyo001/github-readme-stats)
-
+[![Soumyo001's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumyo001&show_icons=true&theme=tokyonight&hide_border=false&icon_color=79ff97&title_color=89ddff&text_color=c3e88d&bg_color=0d1117)](https://github.com/Soumyo001/github-readme-stats)
 
 ---
 
