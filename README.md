@@ -6,8 +6,8 @@ I am a student who has a passion for ***Problem Solving*** and ***Computer Scien
 
 ## 💻 Technologies & Skills
 
-- **Languages:** C++, C#, Java, Dart, Python, JavaScript, php
-- **Frameworks & Libraries:** Flutter, React, ASP.NET Web API, laravel
+- **Languages:** C++, C#, Java, Dart, Python, JavaScript
+- **Frameworks & Libraries:** Flutter, React, ASP.NET Web API
 - **Tools & Platforms:** Git, GitHub, Firebase, Visual Studio, VS Code, Android Studio
 
 ---
