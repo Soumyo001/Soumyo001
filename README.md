@@ -29,7 +29,14 @@ I'm always open to discussing new projects, collaborations, or ideas. Feel free 
 
 ## 📈 GitHub Stats
 
-[![Soumyo001's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumyo001&show_icons=true&theme=tokyonight&hide_border=false&icon_color=79ff97&title_color=89ddff&text_color=c3e88d&bg_color=0d1117)](https://github.com/Soumyo001/github-readme-stats)
+<p align="centerleft">
+<!-- This is for the fire-streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Soumyo001&theme=dark&currStreakNum=650BEF&fire=0BDAEF&currStreakLabel=888888&dates=FFFFFF&background=000000&ring=FFFFFF&stroke=650BEF&sideNums=FFFFFF&sideLabels=888888&border=FFFFFF">
+</a>
+<!-- This is for the stats -->
+<p align="center">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Soumyo001&count_private=true&show_icons=true&title_color=ffffff&icon_color=650BEF&text_color=888888FF&bg_color=000000"> -->
+</a>
 
 ---
 
