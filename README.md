@@ -1,6 +1,12 @@
-# 👋 Hi, I'm Mohammad Sadman Israk
+## Mohammad Sadman Israk
 
-I am a student who has a passion for ***Problem Solving*** and ***Computer Science*** currently pursuing Bachelor of Science in Computer Science and Engineering at Ahsanullah University of Science and Technology. I have experience in building web applications and mobile apps using various technologies.
+
+### 👾 WHOAMI
+
+- 🎓 **CSE Student**
+- 🧠 **Problem Solver** | **Algorithms Enthusiast**  
+- 🚀 **Learner**
+- 💻 **Malware Developer** | **Ethical Hacking**  
 
 ---
 
