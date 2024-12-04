@@ -1,7 +1,7 @@
 ## Mohammad Sadman Israk
 
 
-### 👾 WHOAMI
+### 👾 $WHOAMI
 
 - 🎓 **CSE Student**
 - 🧠 **Problem Solver** | **Algorithms Enthusiast**  
