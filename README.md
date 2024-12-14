@@ -4,9 +4,9 @@
 ### 👾 $WHOAMI
 
 - 🎓 **CSE Student**
-- 🧠 **Problem Solver** | **Algorithms Enthusiast**  
-- 🚀 **Learner**
+- 🧠 **Problem Solver**  
 - 💻 **Malware Developer** | **Ethical Hacking**  
+- 🚀 **love to learn, code & hack**
 
 ---
 
