@@ -5,7 +5,7 @@
 
 - 🎓 **CSE Student**
 - 🧠 **Problem Solver**  
-- 💻 **Malware Developer** | **Ethical Hacking**  
+- 💻 **Malware Developer**
 - 🚀 **love to learn, code & hack**
 
 ---
