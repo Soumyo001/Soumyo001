@@ -54,7 +54,7 @@ Feel free to reach out to me via [email](mailto:www.soumyo@gmail.com) or connect
 
 ## 🌱 I’m currently learning:
 - ML
-- Cyber Security
+- Next.JS
 - Malware
 
 
