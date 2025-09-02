@@ -34,6 +34,8 @@ I'm always open to discussing new projects, collaborations, or ideas. Feel free 
 ---
 
 ## 📈 GitHub Stats
+
+<div align="center" style="margin-bottom: 20px;">
   <picture style="margin-left: 20px;">
     <source
       srcset="https://github-readme-streak-stats-two-ruddy.vercel.app/?user=soumyo001&theme=catppuccin-mocha"
@@ -45,6 +47,7 @@ I'm always open to discussing new projects, collaborations, or ideas. Feel free 
       alt="GitHub Streak"
     />
   </picture>
+</div>
 
 ---
 
