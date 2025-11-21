@@ -35,18 +35,26 @@ I'm always open to discussing new projects, collaborations, or ideas. Feel free 
 
 ## 📈 GitHub Stats
 
-<div align="center" style="margin-bottom: 20px;">
-  <picture style="margin-left: 20px;">
-    <source
-      srcset="https://github-readme-streak-stats-two-ruddy.vercel.app/?user=soumyo001&theme=catppuccin-mocha"
-      media="(prefers-color-scheme: dark)"
-    />
+<div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: space-between;">
+  <div style="margin-bottom: 20px;">
+    <picture>
+      <source
+        srcset="https://github-readme-streak-stats-two-ruddy.vercel.app/?user=soumyo001&theme=merko"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img
+        height="200"
+        src="https://github-readme-streak-stats-two-ruddy.vercel.app/?user=soumyo001"
+        alt="GitHub Streak"
+      />
+    </picture>
+  </div>
+  <div>
     <img
-      height="200"
-      src="https://github-readme-streak-stats-two-ruddy.vercel.app/?user=soumyo001"
-      alt="GitHub Streak"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyo001&theme=merko"
+      alt="GitHub Summary"
     />
-  </picture>
+  </div>
 </div>
 
 ---
