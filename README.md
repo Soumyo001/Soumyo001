@@ -35,27 +35,27 @@ I'm always open to discussing new projects, collaborations, or ideas. Feel free 
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: space-between;">
-  <div style="margin-bottom: 20px;">
-    <picture>
-      <source
-        srcset="https://github-readme-streak-stats-two-ruddy.vercel.app/?user=soumyo001&theme=merko"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img
-        height="200"
-        src="https://github-readme-streak-stats-two-ruddy.vercel.app/?user=soumyo001"
-        alt="GitHub Streak"
-      />
-    </picture>
-  </div>
-  <div>
-    <img
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyo001&theme=merko"
-      alt="GitHub Summary"
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 20px;">
+  <!-- GitHub Streak Stats -->
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats-two-ruddy.vercel.app/?user=soumyo001&theme=merko"
+      media="(prefers-color-scheme: dark)"
     />
-  </div>
+    <img
+      height="200"
+      src="https://github-readme-streak-stats-two-ruddy.vercel.app/?user=soumyo001&theme=merko"
+      alt="GitHub Streak"
+    />
+  </picture>
+
+  <!-- GitHub Profile Summary -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyo001&theme=merko"
+    alt="GitHub Summary"
+  />
 </div>
+
 
 ---
 
