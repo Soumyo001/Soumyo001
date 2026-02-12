@@ -36,26 +36,18 @@ I'm always open to discussing new projects, collaborations, or ideas. Feel free 
 ## 📈 GitHub Stats
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 20px;">
-  <!-- GitHub Streak Stats -->
-  <picture>
-    <source
-      srcset="https://github-readme-streak-stats-two-ruddy.vercel.app/?user=soumyo001&theme=merko"
-      media="(prefers-color-scheme: dark)"
-    />
+  <a href="https://git.io/streak-stats">
     <img
-      height="200"
-      src="https://github-readme-streak-stats-two-ruddy.vercel.app/?user=soumyo001&theme=merko"
+      src="https://streak-stats.demolab.com?user=Soumyo001&theme=merko&card_width=650"
       alt="GitHub Streak"
     />
-  </picture>
+  </a>
 
-  <!-- GitHub Profile Summary -->
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyo001&theme=merko"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyo001&theme=merko"
     alt="GitHub Summary"
   />
 </div>
-
 
 ---
 
