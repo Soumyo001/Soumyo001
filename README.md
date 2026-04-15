@@ -12,8 +12,8 @@
 
 ## 💻 Technologies & Skills
 
-- **Languages:** C++, C#, Java, Dart, Python, JavaScript, Powershell, Bash
-- **Frameworks & Libraries:** Flutter, React, ASP.NET Web API
+- **Languages:** C++, C#, Dart, Python, JavaScript, TypeScript, Powershell, Bash
+- **Frameworks & Libraries:** Flutter, Next.JS, ASP.NET Web API
 - **Tools & Platforms:** Git, GitHub, Firebase, Visual Studio, VS Code, Android Studio
 
 ---
