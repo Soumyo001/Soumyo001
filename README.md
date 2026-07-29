@@ -35,7 +35,7 @@ I'm always open to discussing new projects, collaborations, or ideas. Feel free 
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyo001&theme=merko"
     alt="GitHub Summary"
@@ -44,7 +44,7 @@ I'm always open to discussing new projects, collaborations, or ideas. Feel free 
 
 <br>
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-streak-stats-eight.vercel.app?user=Soumyo001&theme=merko&background=transparent&hide_border=true"
     alt="GitHub Streak"
