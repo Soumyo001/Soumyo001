@@ -37,7 +37,7 @@ I'm always open to discussing new projects, collaborations, or ideas. Feel free 
 
 <p align="left">
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app?user=Soumyo001&theme=merko&background=transparent&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=Soumyo001&theme=radical&background=transparent&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
