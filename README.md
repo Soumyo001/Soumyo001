@@ -46,7 +46,7 @@ I'm always open to discussing new projects, collaborations, or ideas. Feel free 
 
 <p align="left">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyo001&theme=merko"
+    src="https://raw.githubusercontent.com/Soumyo001/Soumyo001/main/profile-summary-card-output/radical/0-profile-details.svg"
     alt="GitHub Summary"
   />
 </p>
