@@ -60,7 +60,6 @@ Feel free to reach out to me via [email](mailto:www.soumyo@gmail.com) or connect
 ---
 
 ## 🌱 I’m currently learning:
-- ASP.NET
 - Next.JS
 - Django
 
